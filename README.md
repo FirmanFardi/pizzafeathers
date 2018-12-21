@@ -14,7 +14,7 @@ Getting up and running is as easy as 1, 2, 3.
 2. Install your dependencies
 
     ```
-    cd path/to/apelanciao; npm install
+    cd path/to/pizzafrenzy; npm install
     ```
 
 3. Start your app
